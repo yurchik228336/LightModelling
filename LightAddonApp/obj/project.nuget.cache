@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyYV0XCKmQ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RusCreat\\Desktop\\LightAddon\\LightAddonApp\\LightAddonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RusCreat\\.nuget\\packages\\communitytoolkit.common\\8.3.2\\communitytoolkit.common.8.3.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\communitytoolkit.diagnostics\\8.3.2\\communitytoolkit.diagnostics.8.3.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\helixtoolkit\\3.1.2\\helixtoolkit.3.1.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\helixtoolkit.geometry\\3.1.2\\helixtoolkit.geometry.3.1.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\helixtoolkit.maths\\3.1.2\\helixtoolkit.maths.3.1.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\helixtoolkit.wpf\\3.1.2\\helixtoolkit.wpf.3.1.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\RusCreat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

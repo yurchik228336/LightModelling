@@ -1,0 +1,32 @@
+## Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache/options directory
+.vs/
+
+## NuGet Packages
+*.nupkg
+**/packages/*
+
+## Build results
+[Bb]uild/
+[Oo]ut/
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
